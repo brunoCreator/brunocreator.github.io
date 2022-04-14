@@ -1,0 +1,144 @@
+body {
+  }
+  .nav{
+    padding-left: 16px;
+  }
+  .row{
+    margin-right: 0;
+  }
+  .esse .fa{
+    font-size: 300px;
+  }
+
+  .mas {
+    position:inherit;
+    padding-right: 0;
+    margin-right: 10px;
+  }
+.fuc{
+  font-size: 300px;
+}
+a,a:hover{
+  color: black;
+}
+
+  .sec h1{
+    font-family: Lato,sans-serif;
+font-size: 74px;
+color: #4D4D4D;
+letter-spacing: 0;
+line-height: 75px;
+font-weight: bold;
+  }
+  .sec h2{
+    font-family: Lato,sans-serif;
+    color: #666666;
+    letter-spacing: 0;
+    line-height: 27px;
+    font-weight: normal;
+  }
+  .sec{
+    font-family: 'Source Sans Pro',sans-serif;
+    color: #4D4D4D;
+    text-align: center;
+    margin-left: 200px;
+
+      min-height: 100vh;
+      font-size: 28px;
+      margin-bottom: 40px;
+  }
+  #section5{margin-bottom: 0px;}
+
+  .carousel-control{
+    opacity: 0;
+  }
+  .carousel-control:hover{
+    opacity: 1;
+  }
+
+  .social > .fa{
+  padding: 20px;
+  font-size: 30px;
+  width: 70px;
+  text-align: center;
+  text-decoration: none;
+  margin: 5px 2px;
+}
+
+
+.social > .fa:hover{
+    opacity: 0.7;
+}
+
+.social > .fa-twitter {
+  background: #55ACEE;
+  color: white;
+}
+
+
+.social > .fa-linkedin {
+  background: #007bb5;
+  color: white;
+}
+
+
+.social > .fa-skype {
+  background: #00aff0;
+  color: white;
+}
+
+.social > .fa-envelope {
+  background: #125688;
+  color: white;
+}
+
+.social > .fa-github {
+  background: #2c4762;
+  color: white;
+}
+
+
+
+  ::-webkit-scrollbar {
+width: 12px;
+height: 12px;
+}
+
+
+::-webkit-scrollbar-thumb {
+border-radius: 10px;
+background: #ccc;
+}
+
+::-webkit-scrollbar-thumb:hover {
+background: #999;
+}
+
+@media (max-width: 1200px) {
+
+  .sec{
+    margin-left: 190px;
+}
+}
+
+
+@media (max-width: 992px) {
+
+  .sec{
+
+    margin-left: 160px;
+}
+}
+
+
+@media (max-width: 768px) {
+
+  .sec{
+
+    margin-left: 76px;
+}
+}
+
+a, a:hover, a:focus, a:visited {
+    text-decoration: none;
+}
